@@ -1,0 +1,18 @@
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\bin\Debug\Cazier Judiciar.exe.config
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\bin\Debug\Cazier Judiciar.exe
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\bin\Debug\Cazier Judiciar.pdb
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier Judiciar.csprojAssemblyReference.cache
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Form1.resources
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Properties.Resources.resources
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier Judiciar.csproj.GenerateResource.cache
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier Judiciar.csproj.CoreCompileInputs.cache
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier Judiciar.exe
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier Judiciar.pdb
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Login1.resources
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\bin\Debug\MySql.Data.dll
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Register1.resources
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier Judiciar.csproj.CopyComplete
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Login2.resources
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Baza_Cazier.resources
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Lucru_cu_Baza_Cazier.resources
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier Judiciar\obj\Debug\Cazier_Judiciar.Lucru_Baza_Cazier.resources

@@ -1,0 +1,8 @@
+#sidebar { width: 280px; float: left; }
+.sidebar-element { overflow: auto; margin-top: 15px; }
+#sidebar h3 { color: #fff; background: #53777a; padding: 7px 10px; text-transform: uppercase; font-size: 14px; }
+#sidebar ul {margin: 0; padding: 0; list-style-type: none; }
+#sidebar ul li { margin: 0 0 7px 0;  }
+
+#sidebar ul li a { background: #fbe49b; text-decoration: none; padding: 5px 5px 5px 5px; text-transform: uppercase; border-left: 1px solid #e4bc3f; border-top: 1px solid #e4bc3f; border-right: 1px solid #e4bc3f; background-color: #fbe49b; }
+#sidebar ul li.current_page_item a, #sidebar ul li a:hover  { color: #3f312e; border-left: 1px solid #fff; border-top: 1px solid #fff; border-right: 1px solid #fff; background: #fff; }

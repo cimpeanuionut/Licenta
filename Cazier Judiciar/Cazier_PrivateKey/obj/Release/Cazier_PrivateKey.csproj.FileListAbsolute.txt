@@ -1,0 +1,7 @@
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier_PrivateKey\bin\Release\Cazier_PrivateKey.exe.config
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier_PrivateKey\bin\Release\Cazier_PrivateKey.exe
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier_PrivateKey\bin\Release\Cazier_PrivateKey.pdb
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier_PrivateKey\obj\Release\Cazier_PrivateKey.csprojAssemblyReference.cache
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier_PrivateKey\obj\Release\Cazier_PrivateKey.csproj.CoreCompileInputs.cache
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier_PrivateKey\obj\Release\Cazier_PrivateKey.exe
+C:\Users\dec2017\source\repos\Cazier Judiciar\Cazier_PrivateKey\obj\Release\Cazier_PrivateKey.pdb

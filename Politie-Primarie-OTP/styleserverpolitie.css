@@ -1,0 +1,31 @@
+body { color: #3f312e; background: #02024d; font: 14px Helvetica, Arial, Sans-serif;}
+#header {width: 1100px; min-height: 150px; margin: 0 auto;}
+#navigation {width: 1100px; margin: 0 auto; position: relative; top: -6px;}
+#navigation ul { margin: 0px; padding: 0px; list-style-type: none; }
+#navigation ul li { display: inline; margin-right: 3px; }
+#navigation ul li a { background: #06c6fa; text-decoration: none; padding: 10px 10px 6px 10px; text-transform: uppercase; border-left: 1px solid #06c6fa; border-top: 1px solid #06c6fa; border-right: 1px solid #06c6fa; background-color: #06c6fa; }
+#navigation ul li.current_page_item a, #navigation ul li a:hover  { color: #3f312e; border-left: 1px solid #fff; border-top: 1px solid #fff; border-right: 1px solid #fff; background: #fff; }
+#container {overflow: auto; width: 1100px; margin: 0 auto; padding:-10px;}
+#content { width: 1100px; min-height: 670px; margin: 0 auto; background: #fff;}
+#content ul { margin: 0px; padding: 0px; list-style-type: none; }
+#content ul li { display: inline; margin-right: 3px; }
+#content ul li a { background: #06c6fa; text-decoration: none; padding: 3px 3px 3px 3px; text-transform: uppercase; border-left: 1px solid #06c6fa; border-top: 1px solid #06c6fa; border-right: 1px solid #06c6fa; background-color: #06c6fa; }
+#content ul li.current_page_item a, #contentleft ul li a:hover  { color: #3f312e; border-left: 1px solid #fff; border-top: 1px solid #fff; border-right: 1px solid #fff; background: #fff; }
+#content h1 { font-size: 30px; margin-top: 0; }
+.content-element { overflow: auto; margin-top: 15px; }
+#content h3 { color: #fff; background: #53777a; padding: 7px 10px; text-transform: uppercase; font-size: 14px; }
+#footer { width: 1100px; min-height: 100px; margin: 0 auto; text-align:center;}
+#footer ul { margin: 15px 0 0 0; padding: 0; list-style-type: none; }
+#footer ul li { display: inline; margin-right: 5px; }
+#footer ul li a { text-transform: uppercase; text-decoration: none; }
+#footer ul li a:hover { text-decoration: underline; }
+#error_msg{
+	width:50%;
+	margin:5px auto;
+	height:30px;
+	border:1px solid #FF0000;
+	background: #FFB9B8;
+	color: #FF0000;
+	text-align:center;
+	padding-top:10px;
+}
